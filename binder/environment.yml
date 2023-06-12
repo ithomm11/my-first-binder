@@ -1,0 +1,14 @@
+name: skmultiflow-environment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - cython
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - ipympl
+  - nodejs
+  - scikit-multiflow=0.5.3
